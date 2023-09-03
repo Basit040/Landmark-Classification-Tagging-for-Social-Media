@@ -1,0 +1,15 @@
+opencv-python-headless
+cmake
+lit
+matplotlib
+numpy
+pillow
+bokeh
+torch
+torchvision
+tqdm
+ipywidgets
+livelossplot
+pytest
+pandas
+seaborn
